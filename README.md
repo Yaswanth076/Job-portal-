@@ -93,15 +93,7 @@ Amazon CloudWatch
 Linux VPS (Ubuntu)
 Nginx
 ---
-#  API Endpoint
 
-## ➤ POST /apply
-
-
-https://dqg1tvzuu0.execute-api.us-east-1.amazonaws.com/prod/apply
-
-
----
 
 #  Test JSON Payload
 
