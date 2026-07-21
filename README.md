@@ -4,11 +4,7 @@ A fully functional **Serverless Web Application** built using AWS services with 
 
 ---
 
-#  Live Website
 
-🔗 http://3.230.125.31
-
----
 
 #  Project Objective
 
